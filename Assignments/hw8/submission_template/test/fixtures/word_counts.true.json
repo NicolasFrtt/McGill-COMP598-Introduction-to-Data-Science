@@ -1,0 +1,34 @@
+{
+  "twilight sparkle": {
+    "ha": 8,
+    "apple": 9
+  },
+  "applejack": {
+    "ha": 16,
+    "apple": 18,
+    "love": 7,
+    "comp": 7
+  },
+  "rarity": {
+    "okie": 22,
+    "ha": 8,
+    "apple": 9
+  },
+  "pinkie pie": {
+    "dialog": 6,
+    "makes": 6,
+    "sense": 6
+  },
+  "rainbow dash": {
+    "am": 5,
+    "trying": 5,
+    "sound": 5,
+    "normal": 5,
+    "dialog": 5,
+    "makes": 5,
+    "sense": 5
+  },
+  "fluttershy": {
+    "okie": 40
+  }
+}
